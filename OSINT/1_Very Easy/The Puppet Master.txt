@@ -1,0 +1,33 @@
+Date: 11:30:2025
+Chalange Name: The Puppet Master
+Chalange Class: Very Easy
+Chalange Category: OSINT
+Chanalge Objective: Find info about Venicle from image.
+
+Ime vozila
+Za koliko je putnika
+Gde je napravljeno
+Od koje godine je pusteno u rad
+za koliko putnika je namenjeno
+
+Procedura of Investigation:
+
+use image and put on google search,
+amoung result i get a name
+put name of venicle i get Wiki,
+where are all answer obout this venicle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
